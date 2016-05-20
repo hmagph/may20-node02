@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: may20-node02
+  host: may20-node02
+  disk_quota: 1024M
